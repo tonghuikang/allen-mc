@@ -1,3 +1,10 @@
+# Implementation comments from huikang
+
+Could not find a way to start. `save.zip` is not found in https://worksheets.codalab.org/worksheets/0x37a9b8c44f6845c28866267ef941c89d/. 
+Issues were raised on GitHub but was ignored: https://github.com/allenai/bi-att-flow/issues?utf8=%E2%9C%93&q=save.zip
+
+Finding alternative routes.
+
 # Bi-directional Attention Flow for Machine Comprehension
  
 - This the original implementation of [Bi-directional Attention Flow for Machine Comprehension][paper].
